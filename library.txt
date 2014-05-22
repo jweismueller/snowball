@@ -1,0 +1,98 @@
+ActiveMQ in Action	Bruce Snyder, Dejan Bosanac, and Rob Davies
+Algorithms of the Intelligent Web	Haralambos Marmanis, Dmitry Babenko
+Art of Java Web Development	Neal Ford
+AspectJ in Action	Ramnivas Laddad
+AspectJ in Action, Second Edition	Ramnivas Laddad
+Bitter EJB	Bruce Tate, Mike Clark, Bob Lee, Patrick Linskey
+Bitter Java	Bruce A. Tate
+Camel in Action	Claus Ibsen and Jonathan Anstey
+Distributed Programming with Java	Qusay H. Mahmoud
+EJB Cookbook	Benjamin G. Sullins and Mark B. Whipple
+EJB 3 in Action	Debu Panda, Reza Rahman, Derek Lane
+EJB 3 in Action, Second Edition	Debu Panda, Ryan Cuprak, and Reza Rahman
+Eclipse in Action	David Gallardo, Ed Burnette and Robert McGovern
+Effective Unit Testing	Lasse Koskela
+Enterprise OSGi in Action	Holly Cummins and Timothy Ward
+Gradle in Action	Benjamin Muschko
+Grails in Action	Glen Smith and Peter Ledbrook
+Grails in Action, Second Edition	Glen Smith and Peter Ledbrook
+Griffon in Action	Andres Almiray and Danno Ferrin
+Groovy in Action	Dierk Koenig, Guillaume Laforge, and Andrew Glover
+Groovy in Action, Second Edition	Dierk Koenig, Paul King, Gillaume Laforge, Jon Skeet
+GWT in Action, Second Edition	Adam Tacy, Robert Hanson, Jason Essington, and Anne Tökke
+GWT in Practice	Robert Cooper and Charles Collins
+Hadoop in Action	Chuck Lam and James Warren
+Hibernate Quickly	Patrick Peak and Nick Heudecker
+Hibernate in Action	Christian Bauer and Gavin King
+Hibernate Search in Action	Emmanuel Bernard and John Griffin
+iText in Action	Bruno Lowagie
+iText in Action, Second Edition	Bruno Lowagie
+IntelliJ IDEA in Action	Duane K. Fields, Stephen Saunders, Eugene Belyaev
+J2EE and XML Development	Kurt A. Gabrick and David B. Weiss
+JBoss in Action	Javid Jamae and Peter Johnson
+JDK 1.4 Tutorial	Gregory M. Travis
+JMX in Action	Benjamin G. Sullins and Mark B. Whipple
+JSTL in Action	Shawn Bayern
+JUnit in Action, Second Edition	Petar Tahchiev, Stan Silvert, Felipe Leme
+JUnit Recipes	J. B. Rainsberger with contributions by Scott Stirling
+Jakarta Commons Online Bookshelf	Vikram Goyal
+Java 3D Programming	Daniel Selman
+Java 8 Lambdas in Action	Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft
+Java Applets and Channels Without Programming	Ronny Richardson, Michael Shoffner, Marq Singer, Bruce Murray, and Jack Gambol
+Java Development with Ant	Erik Hatcher and Steve Loughran
+Java Foundation Classes	Stephen C. Drye and William C. Wake
+Java Network Programming	Merlin Hughes, Michael Shoffner, and Derek Hamner
+Java Persistence with Hibernate	Christian Bauer and Gavin King
+Java Persistence with Hibernate, Second Edition	Christian Bauer, Gavin King, and Gary Gregory
+Java Reflection in Action	Ira R. Forman and Nate Forman
+Java Servlets by Example	Alan R. Williamson
+JavaFX in Action	Simon Morris
+JavaServer Faces in Action	Kito D. Mann
+Jess in Action	Ernest Friedman-Hill
+jQuery in Action, Second Edition	Bear Bibeault and Yehuda Katz
+Lift in Action	Timothy Perrett
+Lucene in Action, Second Edition	Michael McCandless, Erik Hatcher, and Otis Gospodnetic
+Making Sense of Java	Bruce Simpson, John Mitchell, Brian Christeson, Rehan Zaidi, and Jonathan Levine
+Mahout in Action	Sean Owen, Robin Anil, Ted Dunning, and Ellen Friedman
+Making Java Groovy	Kenneth A. Kousen
+Mule in Action	David Dossot and John D'Emic
+Mule in Action, Second Edition	David Dossot, John D'Emic, and Victor Romero Carrasco
+OCA Java SE 7 Programmer I Certification Guide	Mala Gupta
+OCP Java SE 7 Programmer II Certification Guide	Mala Gupta
+Open Source SOA	Jeff Davis
+OSGi in Action	Richard S. Hall, Karl Pauls, and Stuart McCulloch
+OSGi in Depth	Alexandre de Castro Alves
+Play for Java	Nicolas Leroux and Sietse de Kaper
+POJOs in Action	Chris Richardson
+Portlets in Action	Ashish Sarin
+Scala in Action	Nilanjan Raychaudhuri
+Scala in Depth	Joshua D. Suereth
+SCBCD Exam Study Kit	Paul Sanghera
+SCWCD Exam Study Kit	Hanumant Deshmukh and Jignesh Malavia
+SCWCD Exam Study Kit Second Edition	Hanumant Deshmukh, Jignesh Malavia, and Matthew Scarpino
+SOA Governance in Action	Jos Dirksen
+SWT/JFace in Action	Matthew Scarpino, Stephen Holder, Stanford Ng, and Laurent Mihalkovic
+Server-Based Java Programming	Ted Neward
+Seam in Action	Dan Allen
+Spring Batch in Action	Thierry Templier, Arnaud Cogoluegnes, Gary Gregory, and Olivier Bazoud
+Spring Dynamic Modules in Action	Arnaud Cogoluegnes, Thierry Templier, and Andy Piper
+Spring in Action, Third Edition	Craig Walls
+Spring in Action, Fourth Edition	Craig Walls
+Spring in Practice	Willie Wheeler and John Wheeler
+Spring Integration in Action	Mark Fisher, Jonas Partner, Marius Bogoevici, and Iwein Fuld
+Spring Roo in Action	Gordon Dickens and Ken Rimple
+Struts 2 in Action	Donald Brown, Chad Michael Davis, and Scott Stanlick
+Struts in Action	Ted N. Husted, Cedric Dumoulin, George Franciscus, David Winterfeldt
+Struts Recipes	George Franciscus and Danilo Gurovich
+Subversion in Action	Jeffrey Machols
+Swing	Matthew Robinson and Pavel Vorobiev
+Swing Second Edition	Matthew Robinson and Pavel Vorobiev
+Tapestry in Action	Howard M. Lewis Ship
+Test Driven	Lasse Koskela
+The Awesome Power of Java Beans	Lawrence H. Rodrigues
+The Awesome Power of PowerJ	Tim Hatton
+The Well-Grounded Java Developer	Benjamin J. Evans and Martijn Verburg
+Tika in Action	Chris A. Mattmann and Jukka L. Zitting
+Unlocking Android	W. Frank Ableson, Charlie Collins, Robi Sen, and Robert Cooper
+WebWork in Action	Patrick Lightbody and Jason Carreira Foreword by Rickard Öberg
+Wicket in Action	Martijn Dashorst and Eelco Hillenius
